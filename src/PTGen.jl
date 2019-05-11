@@ -1,5 +1,5 @@
 module PTGen
-
-# package code goes here
-
-end # module
+    export PTVer
+    include("Types.jl")
+    include("Functions.jl")
+end
