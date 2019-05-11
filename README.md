@@ -17,6 +17,7 @@ PTVer(A,b)
  5.0  0.0
  0.0  0.0
 
+
 PTVer(A,b, Neighbor=true)
 
 
@@ -32,10 +33,10 @@ Point → Float64[2]
 5.00
 0.00
 adj → Int64[2]
-J → Int64[2]
 PTGen.VerticeType
 Point → Float64[2]
 0.00
 0.00
 adj → Int64[2]
 J → Int64[2]
+
