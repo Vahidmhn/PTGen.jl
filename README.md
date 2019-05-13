@@ -60,5 +60,10 @@ Point → Float64[2]
 adj → Int64[2]
 
 J → Int64[2]
+--------------------------------------------------------------------
+
+This algorithm uses "On-line and off-line vertex enumeration by adjacency lists" algorithm [1]. If you use this algorithm please cite the following papers:
+[1] Chen, Pey-Chun, Pierre Hansen, and Brigitte Jaumard. "On-line and off-line vertex enumeration by adjacency lists." Operations Research Letters 10.7 (1991): 403-409.
+[2] 
 
 
